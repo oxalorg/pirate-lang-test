@@ -1,0 +1,15 @@
+/target
+/classes
+/checkouts
+pom.xml
+pom.xml.asc
+*.jar
+*.class
+/.cpcache
+/.lein-*
+/.nrepl-history
+/.nrepl-port
+words-alpha.txt
+.clj-kondo/
+.lsp/sqlite*.db
+.calva/output-window/
